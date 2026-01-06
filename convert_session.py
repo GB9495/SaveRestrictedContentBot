@@ -4,8 +4,8 @@ from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
 # --------------------------需要你修改的地方--------------------------
-API_ID = 1234567  # 替换成你自己的API ID（从my.telegram.org获取）
-API_HASH = "abcdef1234567890abcdef1234567890"  # 替换成你自己的API HASH
+API_ID = 28325542  # 替换成你自己的API ID（从my.telegram.org获取）
+API_HASH = "1f2a42b2ebec2beca6dafe1171994531"  # 替换成你自己的API HASH
 SESSION_FILE_NAME = "session_8618588631716.session"  # 你的.session文件名，不用改就留着
 # -------------------------------------------------------------------
 
